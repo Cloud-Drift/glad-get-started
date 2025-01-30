@@ -1,4 +1,5 @@
-# glad-get-started (experimental)
+[![Binder: GLAD: Get Started](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cloud-Drift/glad-get-started/HEAD)
+# glad-get-started
 This repository contains a notebook to get you started with the [GLAD dataset](https://data.griidc.org/data/R1.x134.073:0004) using the [*clouddrift* library](https://clouddrift.org/).
 
 
